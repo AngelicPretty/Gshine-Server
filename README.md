@@ -12,7 +12,7 @@ docker pull kiraimai/genshin-server:V3.4
 
 5.git clone 本项目
 
-6. cd到项目路径
+6.cd到项目路径
 
 7.修改docker-start.sh
 
